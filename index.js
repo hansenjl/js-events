@@ -1,3 +1,6 @@
+// Event Bubbling & Capturing
+
+
 //As a developer I want...
 
 //a form to appear in place of the 'Add Emoji' button when the 'Add Emoji' button is clicked
